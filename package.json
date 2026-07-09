@@ -1,0 +1,13 @@
+{
+  "name": "@ai-native-solutions/fallcloser",
+  "version": "1.0.0",
+  "description": "Ring 6 (resolution) flagship · batch loop-closer · peer to fallresolve",
+  "type": "module",
+  "main": "scripts/close.mjs",
+  "bin": {"fallcloser": "scripts/close.mjs"},
+  "files": ["scripts", "README.md", "LICENSE"],
+  "author": "AI-Native Solutions",
+  "license": "MIT",
+  "repository": {"type": "git", "url": "https://github.com/sjgant80-hub/fallcloser.git"},
+  "publishConfig": {"access": "public"}
+}
